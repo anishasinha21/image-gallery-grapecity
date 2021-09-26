@@ -1,0 +1,474 @@
+                                   Image Gallery Application ( Test Cases )
+                                  ------------------------------------------
+
+Test Case 1:  
+
+Title : Run the application.
+
+Description : Try to run the application.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start .
+
+Expected Result: 
+
+         You successfully able to run the application.
+
+---------------------------------------------------------------------------------------
+
+Test Case 2:  
+
+Title : Search Box 
+
+Description : Search Box is visible or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: Search Box is visible.
+
+Expected Result: 
+
+         You successfully able to see search box.
+
+---------------------------------------------------------------------------------------------
+
+Test Case 3:  
+
+Title : Search Box button.
+
+Description : Search Box button is visible or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: Search Box button is visible.
+
+Expected Result: 
+
+         You successfully able to see search box button.
+
+------------------------------------------------------------------------------------------------
+
+Test Case 4:  
+
+Title : Enter text in Search box.
+
+Description : Try to enter text in search box.
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+
+Expected Result: 
+
+         You successfully able to enter text in search box.
+
+----------------------------------------------------------------------------------------------------
+
+Test Case 5:  
+
+Title : Click Search Button.
+
+Description : Try to click on Search Button.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+Expected Result: 
+
+         You successfully able to click on search button.
+------------------------------------------------------------------------------------------------------
+
+Test Case 6:  
+
+Title : Click Search Button.
+
+Description : Try to click on Search Button.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+Expected Result: 
+
+         You successfully able to click on search button.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 7:  
+
+Title : Images are visible or not.
+
+Description : Try to check images are visible or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+         
+         5: Searched Images are shown.
+
+Expected Result: 
+
+         You successfully able to check images are visible or not.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 8:  
+
+Title : Json file Exception.
+
+Description : Try to check if images are not found then json file exception is working or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text (Meaningless).
+       
+         4: Click on Search Button
+        
+         5: Json Exception Images are visible.
+
+Expected Result: 
+
+         You successfully able to check Json file exception.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 9:  
+
+Title : Try to select the images.
+
+Description : Try to select the images.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+
+Expected Result: 
+
+         You successfully able to select the images.
+-----------------------------------------------------------------------------------------------------
+
+Test Case 10:  
+
+Title : Try to select multiple  images.
+
+Description : Try to select multiple images.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+
+Expected Result: 
+
+         You successfully able to select multiple images.
+-------------------------------------------------------------------------------------------------------
+
+Test Case 11:  
+
+Title : Try to Uncheck the images.
+
+Description : Try to Uncheck the images.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+         
+         6: Now try to uncheck the images.
+
+Expected Result: 
+
+         You successfully able to Uncheck the images.
+
+------------------------------------------------------------------------------------------------------
+
+Test Case 12:  
+
+Title : Export Image to PDF button is visisble or not.
+
+Description : Try to Export Image to PDF button is visisble or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+       
+         6: Now Export Image to PDF is visible.
+
+Expected Result: 
+
+         You successfully able to see Export Image to PDF is visible.
+-----------------------------------------------------------------------------------------------------
+
+Test Case 13:  
+
+Title : Export Image to PDF.
+
+Description : Try to Export Image to PDF.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+       
+         6: Now click on Export Image to PDF button .
+
+Expected Result: 
+
+         You successfully able to export images to PDF.
+------------------------------------------------------------------------------------------------------
+
+Test Case 14:  
+
+Title : Save to PC button is visisble or not.
+
+Description : Try to Save to PC button is visisble or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+       
+         6: Now Save to PC is visible.
+
+Expected Result: 
+
+         You successfully able to see Save to PC is visible.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 15:  
+
+Title :  Save to PC.
+
+Description : Try to save images to PC.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+       
+         6: Now click on  Save to PC button .
+
+Expected Result: 
+
+         You successfully able to save images to PC.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 16:  
+
+Title : Export multiple Image to PDF.
+
+Description : Try to Export multiple Image to PDF.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select multiple  images.
+       
+         6: Now click on Export Image to PDF button .
+
+Expected Result: 
+
+         You successfully able to export multiple images to PDF.
+
+-------------------------------------------------------------------------------------------------------
+
+Test Case 17:  
+
+Title :  Save multiple images to PC.
+
+Description : Try to save multiple images to PC.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select multiple images.
+       
+         6: Now click on  Save to PC button .
+
+Expected Result: 
+
+         You successfully able to save multiple images to PC.
+
+-------------------------------------------------------------------------------------------------------
+
+Test Case 18:  
+
+Title :  Save images are visible or not.
+
+Description : Try to save images are visible or not.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select some of the resulting images.
+       
+         6: Now click on  Save to PC button .
+       
+         7: Now open save images .
+
+Expected Result: 
+
+         You successfully able to see save images .
+
+---------------------------------------------------------------------------------------------------
+
+Test Case 19:  
+
+Title : Open Export Image to PDF file.
+
+Description : Try to open Export Image to PDF file.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: In search box try to enter text.
+       
+         4: Click on Search Button
+
+         5: Try to select multiple  images.
+       
+         6: Now click on Export Image to PDF button .
+
+         7: Now open Export Image to PDF file .
+
+Expected Result: 
+
+         You successfully able to open export images to PDF file.
+
+-----------------------------------------------------------------------------------------------------
+
+Test Case 20:  
+
+Title : Close the application.
+
+Description : Try to Close the application.  
+
+Test Steps:  
+
+         1: Open project.
+
+         2: Click on Start.
+
+         3: Click on the close button.
+
+Expected Result: 
+
+         You successfully able to close the application.
+-------------------------------------------------------------------------------------------------------
+
+
